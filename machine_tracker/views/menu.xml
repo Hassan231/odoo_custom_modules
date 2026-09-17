@@ -1,0 +1,6 @@
+<odoo>
+    <menuitem id="menu_machine_tracker_root"
+              name="Machine Tracker"
+              sequence="10"
+              action="action_machine_tracker"/>
+</odoo>
